@@ -19,8 +19,8 @@ This tool is intended for **educational purposes and security testing only**. On
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    cd your-repo-name
+    git clone https://github.com/newbieganas/zipcrack.git
+    cd zipcrack
     ```
 
 2.  **Install the required Python package:**
